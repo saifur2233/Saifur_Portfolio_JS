@@ -1,24 +1,24 @@
 const Projects = [
   {
-    name: "Clone of Agoda.com",
+    name: "MEDICARE",
     about:
-      "Agoda is a fastest growing online travel booking platform. It also provides budget hotels, apartments, homes, and villas to suit all budgets and travel occasions.",
-    img: "https://miro.medium.com/max/1400/1*V3SfEMO4g2oOyi9NnEXjDQ.png",
-    gitrepo: "https://github.com/db648/Agoda-clone",
-    blog: "https://medium.com/@vdbhavani.648/agoda-clone-eb28c930815e",
+      "MediCare is a MERN stack project. A user can see the doctor’s available slot time and book an appointment. Admin can add doctors to the system. Each user has a dashboard where he/she sees his booking appointment details and the doctor sees who takes appointments.",
+    img: "https://user-images.githubusercontent.com/85455377/227472250-4e50e6d1-0a6d-4936-8be0-328707f2efb5.png",
+    gitrepo:
+      "https://github.com/saifur2233/ReactJS_TailwindCSS_Project_MEDICARE_frontend",
+    blog: "https://medicare-cf743.web.app/",
     tech_stack:
       "HTML | CSS | JAVASCRIPT | React | Redux | MongoDB | Express | Nodejs",
     tech_stackicons: [
       `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
       `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
-      `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
       `<img src="https://img.icons8.com/color/50/000000/react-native.png"/>`,
-      `<img src="https://img.icons8.com/color/48/000000/redux.png"/>`,
+      `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px"/>`,
       `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`,
       `<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>`,
       `<img src="https://img.icons8.com/color/48/000000/express.png"/>`,
     ],
-    project_link: "https://agoda-clone-website.vercel.app/",
+    project_link: "https://medicare-cf743.web.app/",
     project_type: "Team Project",
   },
   {
